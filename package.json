@@ -1,5 +1,5 @@
 {
-  "name": "Node-Website-EC2-Sample-App",
+  "name": "Node-Mqtt-Server-App",
   "description": "My NodeJs web application",
   "version": "0.0.1",
   "private": true,
